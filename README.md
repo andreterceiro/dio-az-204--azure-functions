@@ -85,6 +85,13 @@ You can also use an identity related to the sensible data. Teacher said that thi
 
 I installed in VSCode the plugin "VS Code Azure Functions Web". 
 
+Also I run the following command (from [this link](https://github.com/Azure/azure-functions-core-tools) to install azure-functions-core-tools (please see the README.md of this repository):
+
+```
+npm i -g azure-functions-core-tools@4 --unsafe-perm true
+```
+
+
 
 # Slides of the course
 
