@@ -27,3 +27,8 @@ Azure functions has autoscale, but you can limit the maximum number of instances
 # Function apps
 
 ![function apps](images/function-apps.png)
+
+
+# Running your functions offline
+
+You can run your functions offline and this functions can connect to online resources.
