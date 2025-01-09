@@ -69,3 +69,8 @@ Code example that uses the previous associations (C#):
 Another code example (JavaScript):
 
 ![code example](images/code-example-02.png)
+
+
+# Environment variables
+
+One advice of the teacher is to use environment variables to store sensitive data, like sensible data of databases.
