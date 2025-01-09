@@ -79,3 +79,8 @@ One advice of the teacher is to use environment variables to store sensitive dat
 # Identities
 
 You can also use an identity related to the sensible data. Teacher said that this is recommended.
+
+
+# Slides of the course
+
+Please see [this link](slides-of-the-course.pptx).
