@@ -32,3 +32,17 @@ Azure functions has autoscale, but you can limit the maximum number of instances
 # Running your functions offline
 
 You can run your functions offline and this functions can connect to online resources.
+
+
+# Triggers
+
+Teacher said that every function can have only one trigger.
+
+The way you define a trigger is different. It depends on the programming language. Examples:
+
+- **Java**: identification of methods and parameters with annotations;
+- **C#**: identification of methods and parameters with attributes C#.
+- **Python**: the use of the file **functions.json**;
+- **JavaScript**: the use of the file **functions.json**;
+- **TypeScript**: the use of the file **functions.json**;
+- **Power shell**: the use of the file **functions.json**.
