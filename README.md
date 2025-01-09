@@ -15,3 +15,10 @@ The consuption plan has autoscale (automatic scale). Premium is related to a low
 The consumption plan has a default time limit of 5 minutes and a maximum time limit of 10 minutes. The premuim and dedicated plans has a default limit of 30 minutes and no maximum limit.
 
 If the function is not used for a interval of time, it will occur a cold start and the function will need more time to answer.
+
+
+# Scale behaviour
+
+![scale behaviour](images/scale-behaviour.png)
+
+Azure functions has autoscale, but you can limit the maximum number of instances (*functionAppScaleLimit*).
