@@ -51,3 +51,8 @@ The way you define a trigger is different. It depends on the programming languag
 # Associations
 
 Teacher said that associations are used to connect the function to other resources, like databases. Writing in a blob storage is an example of output association.
+
+
+# Direction of the association
+
+In or out. Triggers are always uses the **in** direction. Input associations uses the **in** direction. Output associations uses the **out** direction. Exists the direction **inout** used in more complex situations.
