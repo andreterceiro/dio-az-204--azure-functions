@@ -56,3 +56,16 @@ Teacher said that associations are used to connect the function to other resourc
 # Direction of the association
 
 In or out. Triggers are always uses the **in** direction. Input associations uses the **in** direction. Output associations uses the **out** direction. Exists the direction **inout** used in more complex situations.
+
+
+# Association example
+
+![association example](images/association-example.png)
+
+Code example that uses the previous associations (C#):
+
+![code example](images/code-example-01.png)
+
+Another code example (JavaScript):
+
+![code example](images/code-example-02.png)
