@@ -74,3 +74,8 @@ Another code example (JavaScript):
 # Environment variables
 
 One advice of the teacher is to use environment variables to store sensitive data, like sensible data of databases.
+
+
+# Identities
+
+You can also use an identity related to the sensible data. Teacher said that this is recommended.
