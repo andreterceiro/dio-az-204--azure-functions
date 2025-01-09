@@ -91,6 +91,11 @@ Also I run the following command (from [this link](https://github.com/Azure/azur
 npm i -g azure-functions-core-tools@4 --unsafe-perm true
 ```
 
+Then as I will use C#, I installed the .NET SDK (from [this link](https://learn.microsoft.com/pt-br/dotnet/core/install/linux?WT.mc_id=dotnet-35129-website)) with this command:
+
+```
+sudo snap install dotnet-sdk --classic
+```
 
 
 # Slides of the course
