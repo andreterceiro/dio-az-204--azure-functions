@@ -46,3 +46,8 @@ The way you define a trigger is different. It depends on the programming languag
 - **JavaScript**: the use of the file **functions.json**;
 - **TypeScript**: the use of the file **functions.json**;
 - **Power shell**: the use of the file **functions.json**.
+
+
+# Associations
+
+Teacher said that associations are used to connect the function to other resources, like databases. Writing in a blob storage is an example of output association.
