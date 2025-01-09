@@ -22,3 +22,8 @@ If the function is not used for a interval of time, it will occur a cold start a
 ![scale behaviour](images/scale-behaviour.png)
 
 Azure functions has autoscale, but you can limit the maximum number of instances (*functionAppScaleLimit*).
+
+
+# Function apps
+
+![function apps](images/function-apps.png)
